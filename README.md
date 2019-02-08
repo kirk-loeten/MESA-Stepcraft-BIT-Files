@@ -3,12 +3,12 @@
 The Xilinx ISE is a bit difficult and not manageable for everyone. Therefore I provide the finished bit file for the Stepcraft. 
 
 
-PINOUT
+Standard PINOUT
 
 | I/O | DB25 | DIR | Comment       |
 |-----|------|-----|---------------|
 | 00  |   1  | OUT | Relais 1      |
-| 01  |   14 | OUT | (Relais 2)PWM |
+| 01  |   14 | OUT | Relais 2      |
 | 02  |   2  | OUT | X Dir         |
 | 03  |   15 | IN  | Free          |
 | 04  |   3  | OUT | X Step        |
