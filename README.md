@@ -26,3 +26,9 @@ Standard PINOUT
 | 16  |   13 | IN  | Endstop A     |
 
 all intern I/O 17 - 33 just GPIO
+
+MyMod PINOUT
+
+| I/O | DB25 | DIR | Comment       |
+|-----|------|-----|---------------|
+| 01  |   14 | OUT | PWM Spindle   |
