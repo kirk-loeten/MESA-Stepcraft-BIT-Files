@@ -1,0 +1,1 @@
+# Configuration in Linux CNC
