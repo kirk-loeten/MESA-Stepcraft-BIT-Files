@@ -2,6 +2,14 @@
 
 PIN  PWM
 
+half Step to Quarter Step
+
+| | MS1 | MS2 | Remove |
+|-|-|-|-|
+| |Low R73|High R72| R71, R74 |
+| |Low R48|High R47| R46, R49 |
+| |Low R23|High R22| R21, R24 |
+
 ## init
 Check default
 ```
