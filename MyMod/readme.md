@@ -10,7 +10,9 @@ half Step to Quarter Step
 | |Low R48|High R47| R46, R49 |
 | |Low R23|High R22| R21, R24 |
 
-## init
+## init for tests
+After reboot the 5i25 load the main memory and not the fallback.
+
 Check default
 ```
 $ sudo mesaflash --device 5i25 --readhmid
