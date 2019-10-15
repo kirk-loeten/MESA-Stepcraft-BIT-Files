@@ -1,0 +1,15 @@
+T1 P1 D1.5 ;bohrer 1,5 
+T2 P2 D3 ;fräser3 
+T3 P3 D0.201 ;#7 tap drill 
+T99999 P99999 ;big tool number 
+T98 P98 X30 Y-28 Z40 D5.5 ;camera 
+T150 P150 D3 ;3mm bohrer 
+T515 P515 D3 ;3mm einschneider 
+T640 P640 D8 ;90° fasenfräser 
+T432 P432 D6 ;festool 6mm 
+T410 P410 D1 ;1mm nutfräser 
+T412 P412 D2 ;added 20190202 
+T645 P645 D0.5 ;added 20190202 
+T117 P117 D1.5 ;bohrer 1,5 
+T414 P414 D3 ;added 20190402 
+T520 P520 D5 ;ein Schneider 5mm 
